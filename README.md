@@ -63,5 +63,14 @@ Fathollahi-Fard, A. M., Hajiaghaei-Keshteli, M., & Mirjalili, S. (2019). *A set 
 This repository is independent of the paper authors. Refer to the linked publication for the original mathematical model and evaluation.
 
 ## Academic context
+## Academic Context
 
-Completed as a collaborative university course project in **Operations Research in Healthcare** at **Amirkabir University of Technology**. Acknowledgment of all student contributors should be added with their preferred English names before public release.
+This project was completed as part of the **Operations Research in Healthcare** course at **Amirkabir University of Technology (Tehran Polytechnic)**.
+
+**Project Contributors:**
+- Mina Moazzenzadeh
+- Sepideh Ghafari
+
+**Project Type:** Collaborative university course project
+
+**Research Focus:** Home Healthcare Optimization, Mathematical Programming, and Heuristic Algorithms
